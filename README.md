@@ -7,7 +7,7 @@
 - Mail : leeky16498@gmail.com
 - Main Development tool : 1. SwiftUI, 2. UIKit
 - MSc Cranfield University, Engineering and Manufacturing and Management System
-- BSc, Korea Military Academy, Mechanical Engineering
+- BSc, Korea Military Academy, Mechanical Engineering and Military Science
 
 ## 2. The dream I want to be 🔮
 > Being a one of best iOS developer in the world,
