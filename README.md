@@ -16,6 +16,11 @@
 ![devleeky16498's GitHub stats](https://github-readme-stats.vercel.app/api?username=leeky16498&show_icons=true&theme=radical)
 
 
+## 4. CV so far 📝
+- on the way to defend my country for 11 years
+- Bachelor in  Korea Military Academy, Mechanical Engineering
+- MSc in Cranfield University, Engineering and Manufacturing and Management System
+
 <!--
 **leeky16498/leeky16498** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
