@@ -6,6 +6,8 @@
 - Blog : https://velog.io/@devleeky16498
 - Mail : leeky16498@gmail.com
 - Main Development tool : 1. SwiftUI, 2. UIKit
+- MSc Cranfield University, Engineering and Manufacturing and Management System
+- BSc, Korea Military Academy, Mechanical Engineering
 
 ## 2. The dream I want to be 🔮
 > Being a one of best iOS developer in the world,
@@ -14,6 +16,7 @@
 
 ## 3. My Github Stats! 💻
 ![devleeky16498's GitHub stats](https://github-readme-stats.vercel.app/api?username=leeky16498&show_icons=true&theme=radical)
+
 
 <!--
 **leeky16498/leeky16498** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
