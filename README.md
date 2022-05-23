@@ -2,10 +2,10 @@
 
 ## 1. Who am I ? 😀
 - Name : Kyungyun Lee
-- iOS Developer(from: Jan, 2022)
+- iOS and Python Developer
 - Blog : https://velog.io/@devleeky16498
 - Mail : leeky16498@gmail.com
-- Main Development tool : 1. SwiftUI, 2. UIKit
+- Main Development tool : 1. SwiftUI, 2. UIKit 3. Python
 - MSc Cranfield University, Engineering and Manufacturing and Management System
 - BSc, Korea Military Academy, Mechanical Engineering and Military Science
 
